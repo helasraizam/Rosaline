@@ -1,0 +1,5 @@
+#include "CODE/dna.cpp"
+#include "CODE/gc.cpp"
+#include "CODE/revc.cpp"
+#include "CODE/rna.cpp"
+#include "CODE/Test.cpp"
